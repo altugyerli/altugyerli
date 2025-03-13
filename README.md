@@ -1,13 +1,21 @@
 ### Hi there 👋, my name is Altuğ Yerli
-#### I
-![I](https://cdn.gencraft.com/prod/user/506e93b7-f26b-4d0c-a1fc-b8c8dc4fd271/fae762b0-e4dc-4b92-9f3d-1a88163f8ef5/image/image1_0.jpg?Expires=1741979778&Signature=K7cNEZIyiZZbZTjDKlt5bJbDnsWz7OM6~zfAoEW2vKDyBGB79Ncr-NmmP1zG7JoCHW5AxlNrcvyUe4gofluHfsiYLw0mrXdWoYjT-Uz5~HdMZn53lRv6obn924XHKrgsXlyWcwCOhn5~gpnbvLT0PVx1-Wj1jZbU2i6KunovZO9h5va0Rdyw-IsmjE2ES6Cugmx5xunt1Cf~6xbQrwfj1JcnnBta33pgoLN4AQ-wTdCXgMZustdhtrqg1umyUKYiTHp7o1xwDyxKuLvmFmh8pXq9bEpSvJHhcBuOjLp0aDsFDlAmc97-iSICuob8npXEJNQ1Ic~hnKquB81CMA8c0Q__&Key-Pair-Id=K3RDDB1TZ8BHT8)
+![](https://cdn.leonardo.ai/users/c945f090-fa2b-4a56-9211-cb8b153d45fe/generations/b9820d59-b601-4d47-8dd7-b019ce7e6c21/Leonardo_Phoenix_10_A_Logos_Text_Top_Left_Python_logo_Top_1.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+A 21-year-old who finds magic in data and endless curiosity in AI. I believe every dataset whispers a story—if you listen closely
+# My Data Philosophy
+def find_story(data):
+    curiosity = True
+    while curiosity:
+        insight = analyze(data)
+        if insight.human_context:
+            return insight.story
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Python / SQL / C#
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Detecting Fake News with ai 
+- 🌱 I’m currently learning ai/excel/libraries 
+- 📫 How to reach me: altuyerli@gmail.com 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altugyerli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/altuğyerli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Altug_yerli/)  
 
