@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Altuğ Yerli
 ![](https://cdn.leonardo.ai/users/c945f090-fa2b-4a56-9211-cb8b153d45fe/generations/b9820d59-b601-4d47-8dd7-b019ce7e6c21/Leonardo_Phoenix_10_A_Logos_Text_Top_Left_Python_logo_Top_1.jpg)
 
-A 21-year-old who finds magic in data and endless curiosity in AI. I believe every dataset whispers a story—if you listen closely
+A 22-year-old who finds magic in data and endless curiosity in AI. I believe every dataset whispers a story—if you listen closely
 # My Data Philosophy
 def find_story(data):
     curiosity = True
